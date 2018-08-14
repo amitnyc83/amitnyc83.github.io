@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "CLI Data Gem  Project"
-date:       2018-08-13 16:09:06 +0000
+date:       2018-08-13 12:09:07 -0400
 permalink:  cli_data_gem_project
 ---
 
 
 
-[You Will Never Walk Alone](https://platform-static-files.s3.amazonaws.com/premierleague/badges/t14.png)
+
 
 After a week of trial and error and i glad i have overcome the first of many projects on my coding journey. It felt like flatiron school asking you to walk on your own for the first time. I was so used to hit learn and reading errors to get make test passing. It felt like i finally had to write my own test and use Pry to figure it out. Honestly it felt really good to see the project working. 
 
