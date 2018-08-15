@@ -1,15 +1,14 @@
 # Site settings
+author: Amit Singh
 title: How I got here
 header-img: img/home-bg.png
 email: amit_nyc@live.com
-copyright_name: amitnyc83
+copyright_name: Amit Singh
 description: > # this means to ignore newlines until "baseurl:"
   My coding journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  amitnyc83
-learn_profile: amitnyc83
-email_username: amit_nyc@live.com
 
 # Build settings
 markdown: kramdown
