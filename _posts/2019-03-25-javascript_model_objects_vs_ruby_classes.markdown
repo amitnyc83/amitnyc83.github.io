@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript Model Objects vs Ruby Classes"
-date:       2019-03-25 14:59:26 +0000
+date:       2019-03-25 10:59:27 -0400
 permalink:  javascript_model_objects_vs_ruby_classes
 ---
 
